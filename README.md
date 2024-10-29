@@ -1,4 +1,5 @@
 # Super Mario Maker 2 MessageStudio
+
 Work in progress MessageStudio for Super Mario Maker 2 version 3.0.3.
 
 > [!CAUTION]
